@@ -8,6 +8,20 @@
 </br>
 - 고려대학교 경영대학 학사 졸업</br>
 - 연세대학교 디지털애널리틱스 융합협동과정 석사 재학 중
+</br>
+### Pilkyu Choi</br>
+------------------
+#### Education 🎓 </br>
+- Korea University</br>
+  - B.A. in Business</br>
+</br>
+- Yonsei University</br>
+  - M.S. in Digital Analytics</br>
+------------------
+#### Awards 🏆
+- 전력사용량 예측 AI 경진대회 11위(전체 4% 이내)
+- 2021 국토교통 빅데이터 온라인 해커톤 경진대회 우수상 (한국국토연구원 원장상)
+
 
 <!--
 **pilkyuchoi/pilkyuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
