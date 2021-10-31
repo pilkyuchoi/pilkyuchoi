@@ -7,7 +7,7 @@
 잘 부탁드립니다 :)</br>
 </br>
 - 고려대학교 경영대학 학사 졸업</br>
-- 연세대학교 디지털애널리틱스 석사과정 재학 중
+- 연세대학교 디지털애널리틱스 석사 재학 중
 
 <!--
 **pilkyuchoi/pilkyuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
