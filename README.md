@@ -1,9 +1,4 @@
-안녕하세요! 👋  
-저는 데이터 사이언스, AI를 공부하는 대학원생입니다.  
-현재 추천시스템에 관심이 많습니다.  
-향후 IT 기업에서 데이터 사이언티스트, AI 엔지니어로 일하기를 꿈꾸고 있습니다.  
-잘 부탁드립니다 :)  
-
+# Pilkyu Choi  
 ## Education 🎓  
 - Korea University (2014 ~ 2021)  
   - B.A. in Business Administration  
