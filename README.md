@@ -12,7 +12,7 @@
   - M.S. in Digital Analytics    
 ------------------
 #### Awards 🏆  
-- 2021 전력사용량 예측 AI 경진대회 11위(전체 4% 이내)  
+- 2021 전력사용량 예측 AI 경진대회 11위 (상위 4%)  
 - 2021 국토교통 빅데이터 온라인 해커톤 경진대회 우수상 (한국국토연구원 원장상)
 <!--
 **pilkyuchoi/pilkyuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
