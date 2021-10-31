@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 안녕하세요!</br>
-저는 고려대학교 경영대학을 졸업하고, 현재 연세대학교 디지털애널리틱스 석사과정에 재학 중인 대학원생입니다.</br>
-데이터 사이언스, AI를 꾸준히 공부하고 있으며 특히 추천시스템에 관심이 많습니다.</br>
+저는 데이터 사이언스, AI를 공부하는 대학원생입니다.</br>
+현재 추천시스템에 관심이 많습니다.</br>
 향후 IT 기업에서 데이터 사이언티스트, AI 엔지니어로 일하기를 꿈꾸고 있습니다.</br>
-잘 부탁드립니다 :)
+잘 부탁드립니다 :)</br>
+</br>
+- 고려대학교 경영대학 학사 졸업</br>
+- 연세대학교 디지털애널리틱스 석사과정 재학 중
 
 <!--
 **pilkyuchoi/pilkyuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
