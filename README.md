@@ -15,8 +15,11 @@
 - 2021 전력사용량 예측 AI 경진대회 11위 (상위 4%)  
 - 2021 국토교통 빅데이터 온라인 해커톤 경진대회 우수상 (한국국토연구원 원장상)
 -----------------
-#### Tech  
+#### Tech Stack  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <!--
 **pilkyuchoi/pilkyuchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
