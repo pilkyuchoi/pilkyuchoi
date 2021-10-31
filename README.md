@@ -4,15 +4,15 @@
 향후 IT 기업에서 데이터 사이언티스트, AI 엔지니어로 일하기를 꿈꾸고 있습니다.  
 잘 부탁드립니다 :)  
 
-### Education 🎓  
+## Education 🎓  
 - Korea University (2014 ~ 2021)  
   - B.A. in Business Administration  
 - Yonsei University (2021 ~ )  
   - M.S. in Digital Analytics    
-### Awards 🏆  
+## Awards 🏆  
 - 2021 전력사용량 예측 AI 경진대회 11위 (상위 4%)  
 - 2021 국토교통 빅데이터 온라인 해커톤 경진대회 우수상 (한국국토연구원 원장상)
-### Tech Stack 🛠️
+## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> 
