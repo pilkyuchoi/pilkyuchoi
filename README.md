@@ -1,4 +1,4 @@
-### Pilkyu Choi 👋
+### Pilkyu Choi 👋</br>
 
 안녕하세요! 👋 </br>
 저는 데이터 사이언스, AI를 공부하는 대학원생입니다.</br>
