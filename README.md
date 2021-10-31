@@ -6,9 +6,9 @@
 
 -----------------
 #### Education 🎓  
-- Korea University(2014 ~ 2021)  
+- Korea University (2014 ~ 2021)  
   - B.A. in Business Administration  
-- Yonsei University(2021 ~ )  
+- Yonsei University (2021 ~ )  
   - M.S. in Digital Analytics    
 ------------------
 #### Awards 🏆  
