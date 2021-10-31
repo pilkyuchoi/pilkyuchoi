@@ -5,10 +5,9 @@
 잘 부탁드립니다 :)  
 
 -----------------
-#### Education 🎓 </br>
-- Korea University</br>
-  - B.A. in Business</br>
-
+#### Education 🎓  
+- Korea University  
+  - B.A. in Business Administration  
 - Yonsei University</br>
   - M.S. in Digital Analytics</br>
 ------------------
