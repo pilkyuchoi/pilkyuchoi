@@ -6,10 +6,10 @@
 
 -----------------
 #### Education 🎓  
-- Korea University  
+- Korea University(2014 ~ 2021)  
   - B.A. in Business Administration  
-- Yonsei University  
-  - M.S. in Digital Analytics ~  
+- Yonsei University(2021 ~ )  
+  - M.S. in Digital Analytics    
 ------------------
 #### Awards 🏆  
 - 전력사용량 예측 AI 경진대회 11위(전체 4% 이내)  
