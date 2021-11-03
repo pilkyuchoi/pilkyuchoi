@@ -1,4 +1,3 @@
-현재 추천시스템에 관심이 많습니다 ⭐️
 ## Education 🎓  
 - Korea University (2014 ~ 2021)  
   - B.A. in Business Administration  
