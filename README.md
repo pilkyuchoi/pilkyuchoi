@@ -8,7 +8,7 @@
 - 2021 국토교통 빅데이터 온라인 해커톤 경진대회 우수상
 - 2021 빅콘테스트 챔피언리그 수산Biz부문 장려상
 ## Projects 💼
-- HSAd 산학협력 프로그램 우수상
+- HSAd 산학협력 프로그램
   - LG전자 전략국가(영국) 닷컴 플랫폼 내 고객 경험 여정 분석 및 개선점 도출(Google Analytics 활용)
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
