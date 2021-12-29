@@ -4,7 +4,7 @@
 - Yonsei University (2021 ~ )  
   - M.S. in Digital Analytics    
 ## Participate 🙋
-- 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템)도메인
+- 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인
 ## Awards 🏆  
 - 2021 전력사용량 예측 AI 경진대회 11위 (상위 4%)  
 - 2021 국토교통 빅데이터 온라인 해커톤 경진대회 우수상
