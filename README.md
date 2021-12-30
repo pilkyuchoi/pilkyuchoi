@@ -11,7 +11,7 @@
 - 2021 빅콘테스트 챔피언리그 수산Biz부문(수산물 수입가격 예측) 장려상
 ## Projects 💼
 - LG E-Commerce 산학협력 프로그램 우수상
-  - 닷컴 플랫폼 내 고객 경험 여정 분석 및 개선점 도출
+  - 온라인 플랫폼 내 고객 경험 여정 분석 및 개선점 도출
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
