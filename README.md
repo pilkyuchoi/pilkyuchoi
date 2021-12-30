@@ -12,8 +12,6 @@
 ## Projects 💼
 - 경쟁요소별 감성분석을 통한 카페브랜드 순위비교
 - 딥러닝 기반 웹툰 폭력성 탐지
-## Papers 📃
-- Effects of Webtoon on the incivility of the comments based on CNN
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
