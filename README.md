@@ -9,6 +9,11 @@
 - 2021 국토교통 빅데이터 온라인 해커톤 우수상
 - 2021 빅콘테스트 데이터분석분야 챔피언리그 장려상
 - LG E-Commerce 산학협력 프로그램 우수상
+## Projects 💼
+- 경쟁요소별 감성분석을 통한 카페브랜드 순위비교
+- 딥러닝 기반 웹툰 폭력성 탐지
+## Papers 📃
+- Effects of Webtoon on the incivility of the comments based on CNN
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
