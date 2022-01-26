@@ -4,7 +4,7 @@
 - Yonsei University (2021 ~ )  
   - M.S. in Digital Analytics
 ## Participate 🙋
-- 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인
+- 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인(2022.01 ~)
 ## Awards 🏆
 - 2021 국토교통 빅데이터 온라인 해커톤 우수상
 - 2021 빅콘테스트 데이터분석분야 챔피언리그 운영위원장상
