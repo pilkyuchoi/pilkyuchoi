@@ -5,11 +5,12 @@
   - M.S. in Digital Analytics
 ## Participate 🙋
 - 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인
-## Awards 🏆
+## Competition 🏆
+- 2021 전력사용량 예측 AI 경진대회 11위 (상위 4%)
 - 2021 국토교통 빅데이터 온라인 해커톤 우수상
 - 2021 빅콘테스트 데이터분석분야 챔피언리그 운영위원장상
 - LG E-Commerce 산학협력 프로그램 우수상
-## Projects 💼
+## Project 💼
 - 경쟁요소별 감성분석을 통한 카페브랜드 순위비교
 - 딥러닝 기반 웹툰 폭력성 측정
 ## Tech Stack 🛠️
