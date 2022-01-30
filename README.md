@@ -3,7 +3,7 @@
   - B.A. in Business Administration  
 - Yonsei University (2021 ~ )  
   - M.S. in Digital Analytics
-## Participate 🙋
+## Organization 🙋
 - 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인
 ## Competition 🏆
 - 2021 한국에너지공단 AI 경진대회 11위(상위 4%)
