@@ -16,7 +16,7 @@
   - 온라인 플랫폼 내 고객 경험 여정 분석 및 개선점 도출
 ## Project 💼
 - 경쟁요소별 감성분석을 통한 카페브랜드 순위비교
-- 폭력적인 웹툰 이미지 분류
+- 폭력적 웹툰 이미지 분류
 - 마스크 착용 상태 분류
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
