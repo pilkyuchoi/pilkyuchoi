@@ -2,7 +2,7 @@
 - Korea University (2014 ~ 2021)  
   - B.A. in Business Administration  
 - Yonsei University (2021 ~ )  
-  - M.S. in Digital Analytics(Data Science)
+  - M.S. in Digital Analytics - _Data Science_
 ## Organization 🙋
 - 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인
 ## Competition 🏆
