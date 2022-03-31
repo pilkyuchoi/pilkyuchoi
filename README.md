@@ -14,7 +14,7 @@
 - 리뷰 감성분석을 통한 카페브랜드 순위비교
 - 이미지 분류를 통한 웹툰 폭력성 측정
 - 마스크 착용 상태 분류
-- 사용자 로그 데이터 기반 영화 
+- 사용자 로그 데이터 기반 영화 추천
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
