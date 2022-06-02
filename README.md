@@ -1,6 +1,6 @@
 ## Education 🎓  
-- Korea University(2014 ~ 2021), B.A. in Business Administration  
-- Yonsei University(2021 ~ ), M.S. in Digital Analytics
+- B.A. in Business Administration, Korea University(2014 ~ 2021)
+- M.S. in Digital Analytics, Yonsei University(2021 ~ 2022)
 ## Organization 🙋
 - 네이버 부스트캠프 AI Tech 3기 추천시스템 도메인
 ## Awards 🏆
