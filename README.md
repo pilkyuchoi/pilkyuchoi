@@ -12,6 +12,9 @@
   - 수산물 수입 가격 예측
 - LG E-Commerce  산학협력 프로그램 우수상
   - 고객 경험 여정 분석
+## Project 💼  
+- 마스크 착용 상태 분류
+- 깃헙 리포지토리 추천 서비스(크롬 익스텐션)
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
