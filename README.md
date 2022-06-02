@@ -4,7 +4,7 @@
 - Yonsei University (2021 ~ )  
   - M.S. in Digital Analytics - _Data Science_
 ## Organization 🙋
-- 네이버 부스트캠프 AI Tech 3기 RecSys(추천시스템) 도메인
+- 네이버 부스트캠프 AI Tech 3기 추천시스템 도메인
 ## Awards 🏆
 - 2021 국토교통부 빅데이터 온라인 해커톤 우수상
   - 도심항공모빌리티(UAM) 최적 입지 선정  
