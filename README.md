@@ -8,15 +8,10 @@
 ## Awards 🏆
 - 2021 국토교통부 빅데이터 온라인 해커톤 우수상
   - 도심항공모빌리티(UAM) 최적 입지 선정  
-- 2021 빅콘테스트 데이터분석분야 챔피언리그 운영위원장상
+- 2021 빅콘테스트 데이터분석분야 챔피언리그 장려상
   - 수산물 수입 가격 예측
 - LG E-Commerce  산학협력 프로그램 우수상
   - 고객 경험 여정 분석
-## Project 💼
-- 리뷰 감성분석을 통한 카페브랜드 순위비교
-- 이미지 분류를 통한 웹툰 폭력성 측정
-- 마스크 착용 상태 분류
-- 영화 평가 이력 데이터 기반 영화 추천
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
