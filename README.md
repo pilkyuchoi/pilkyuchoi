@@ -9,7 +9,7 @@
 - LG E-Commerce  산학협력 프로그램 우수상(고객 경험 여정 분석)
 ## Project 💼  
 - Mask Wearing Classification
-- Movie Recommendation System by Movie Lens Dataset
+- Movie Recommendation by Movie Lens Dataset
 - Github Repository Recommendation(Chrome Extension)
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
