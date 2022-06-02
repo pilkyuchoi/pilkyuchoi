@@ -10,7 +10,7 @@
 ## Project 💼  
 - 마스크 착용 상태 분류
 - Movie Lens 데이터 기반 영화 추천
-- 깃헙 리포지토리 추천 서비스(크롬 익스텐션)
+- 깃헙 리포지토리 추천(크롬 익스텐션)
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
