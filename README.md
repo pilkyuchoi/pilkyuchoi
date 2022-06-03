@@ -11,6 +11,7 @@
 - Mask Wearing Classification
 - Movie Recommendation by Movie Lens Dataset
 - Github Repository Recommendation(Chrome Extension)
+- Aerial Image Super Resolution/Classification/Semantic Segmentation
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
