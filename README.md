@@ -1,8 +1,8 @@
 ## Career 💼
-- Data Analyst at Shinhan Bank(2022.07 ~ )
+- Data Analyst at Shinhan Bank (2022.07 ~ )
 ## Education 🎓  
-- B.A. in Business Administration, Korea University(2014.03 ~ 2021.02)
-- M.S. in Digital Analytics, Yonsei University(2021.03 ~ 2022.08)
+- B.A. in Business Administration, Korea University (2014.03 ~ 2021.02)
+- M.S. in Digital Analytics, Yonsei University (2021.03 ~ 2022.08)
 ## Organization 🙋
 - Naver Connect Boostcamp AI Tech 3rd
 ## Awards 🏆
