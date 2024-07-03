@@ -1,20 +1,11 @@
 ## Career 💼
-- Data Analyst at Shinhan Bank (2022.07 ~ )
+- Data Analyst at Shinhan Bank (2022.07 ~ 2024.05)
 ## Education 🎓  
 - B.A. in Business Administration, Korea University (2014.03 ~ 2021.02)
 - M.S. in Digital Analytics, Yonsei University (2021.03 ~ 2022.08)
+  - Master's Thesis: Hybrid Animation Recommendation System using Character Information
 ## Organization 🙋
 - Naver Connect Boostcamp AI Tech 3rd
 ## Awards 🏆
-- 2021 국토교통부 빅데이터 온라인 해커톤 우수상(도심항공모빌리티 최적 입지 선정)
-- 2021 빅콘테스트 데이터분석분야 챔피언리그 장려상(수산물 수입 가격 예측)
-- LG E-Commerce  산학협력 프로그램 우수상(고객 경험 여정 분석)
-## Project 💼  
-- Mask Wearing Classification
-- Github Repository Recommendation(Chrome Extension)
-## Tech Stack 🛠️
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> 
+- 2021 Ministry of Land, Infrastructure and Transport Big Data Online Hackathon Excellence Award (Optimal Site Selection for Urban Air Mobility)
+- 2021 Big Contest Data Analysis Field Champion League Encouragement Award (Prediction of Seafood Import Prices)
