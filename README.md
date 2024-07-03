@@ -6,6 +6,6 @@
   - Master's Thesis: Hybrid Animation Recommendation System using Character Information
 ## Organization
 - Naver Connect Boostcamp AI Tech 3rd
-## Awards
+## Award
 - 2021 Ministry of Land, Infrastructure and Transport Big Data Online Hackathon Excellence Award (Optimal Site Selection for Urban Air Mobility)
 - 2021 Big Contest Data Analysis Field Champion League Encouragement Award (Prediction of Seafood Import Prices)
